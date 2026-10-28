@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AdGuard Home is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://adguard.com/
+AdGuard Home provides network-wide ad blocking and privacy protection software for routers, servers, and all devices on a local network. It blocks ads, trackers, and malware at the DNS level, offering customizable filtering, parental controls, and optional integration with AdGuard DNS and VPN services.
+
+**Areas:** Ad Blocking · Privacy · DNS Filtering · Network Security · Open Source
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://adguard.com/)
+- [Documentation](https://adguard.com/en/adguard-home/overview.html)
+- [Support](https://adguard.com/en/support/faq.html)
+- [Blog](https://adguard.com/en/blog/index.html)
+- [Terms of service](https://adguard.com/terms-and-conditions.html?_plc=en)
+- [Privacy policy](https://adguard.com/privacy.html)
+- [Status](https://status.adguard.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/adguard/](https://apis.io/providers/adguard/).
